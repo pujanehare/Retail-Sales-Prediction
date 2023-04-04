@@ -91,4 +91,4 @@ The outliers in the dataset showed justifiable behaviour. The outliers were eith
   </li>
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)# capstone-project-2
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
